@@ -1,0 +1,36 @@
+img{
+        
+        width:250px;
+        border-radius:50%;
+        border:5px solid black;
+        float: center;
+    }
+    body{
+        
+        font-size:20px;}
+h3{
+    font-style: oblique;
+    text-decoration: solid;
+    color:darkred;
+}
+    h1{
+        text-align:center;
+        color:crimson;}
+    i{ color:purple;}
+    b{ color:crimson;}
+    .user{text-align: center;}
+    a{
+        color:rgba(82, 48, 46, 0.808);
+        text-decoration: none;
+
+    }
+.resume{
+    color:rgb(17,16,15);
+    border:2px solid black;
+    padding:5px 10px;
+    font-weight: normal;
+    font-size: medium;
+    line-height:40px;
+    text-transform: uppercase;
+    cursor:pointer;
+}
